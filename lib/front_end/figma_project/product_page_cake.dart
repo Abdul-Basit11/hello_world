@@ -39,7 +39,7 @@ class _productpagecakeState extends State<productpagecake> {
           ),
           Positioned(
               top: 60,
-              left: 16,
+              left: 17,
               right: 16,
               child: Container(
                 height: 35,
